@@ -1,0 +1,7 @@
+{
+  "url": "https://www.googleapis.com/download/storage/v1/b/chromium-browser-snapshots/o/",
+  "os": "Win_x64",
+  "file": "chrome-win.zip",
+  "local_file": "chromium.zip",
+  "install_path": ""
+}
